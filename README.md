@@ -5,6 +5,7 @@ Create a simple app to utilize firebase auth
 ## Contributors
 * mwturner611
 * Following the guide at [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+* Utilizing starter code at [iamshaunjp/firebase-auth](https://github.com/iamshaunjp/firebase-auth)
 
 ## Technology
 Firebase Auth, HTML, CSS, JavaScript
